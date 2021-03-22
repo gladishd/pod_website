@@ -1,0 +1,92 @@
+* {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+html{
+	scroll-behavior: smooth;
+}
+
+body {
+	background-image: url(./images/bg_pic.png);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+  background-color: #cccccc;
+	font-family: 'Ruda', sans-serif;
+}
+
+.f_center{
+	text-align: center;
+	width: 100%;
+}
+
+.break {
+	height: 40px;
+}
+
+.beginning, .end {
+  content: "";
+  background-image:
+  radial-gradient(circle at 6px 0, rgba(255,255,255,0) 5px, rgb(253, 255, 233) 6px, rgba(255,255,255,0) 7px),
+  radial-gradient(circle at 12px 0, rgba(255,255,255,0) 11px, rgb(255, 209, 209) 12px, rgba(255,255,255,0) 13px),
+  radial-gradient(circle at 12px 0, rgba(255,255,255,0) 4px, rgb(197, 197, 197) 5px, rgba(255,255,255,0) 6px),
+  radial-gradient(circle at 12px 12px, rgba(255,255,255,0) 1px, rgb(211, 255, 200) 2px, rgba(255,255,255,0) 3px),
+  linear-gradient(to left, rgba(255,255,255,0) 1px, rgb(184, 229, 255) 2px, rgba(255,255,255,0) 3px);
+  background-repeat: repeat-x;
+  background-position: 6px 5px, 6px 9px, 6px 12px, -6px 13px, 8px 15px;
+  background-size: 12px 12px, 24px 13px, 24px 12px, 24px 24px, 24px 8px;
+	height: 30px;
+	border-radius: 1em;
+	width: 100vw;
+	margin-left: -15px;
+}
+.end {
+	transform: scaleY(-1);
+	margin-bottom: -5px;
+	margin-left: 0px;
+}
+
+@media only screen and (max-width: 459px) {
+	.break{
+		height: 80px;
+	}
+}
+
+
+.mainPage{
+  background-image: url(./images/bg_pic.png);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+  background-color: #cccccc;
+	font-family: 'Ruda', sans-serif;
+  margin: 1em;
+}
+
+.block:before, .block:after {
+	content: '';
+	position: fixed;
+	width: calc(100vw);
+	height: calc(100vh);
+	background: linear-gradient(-45deg, #efddf0, #c2c2e2, #cfc9c0,#d4c2cf, #bad8d8, #dbc4d2,
+	#ade7e9, #e4dfdc,#efddf0, #c2c2e2, #cfc9c0, #efddf0, #c2c2e2, #cfc9c0,#d4c2cf, #bad8d8, #dbc4d2,
+	#ade7e9, #e4dfdc,#efddf0, #c2c2e2, #cfc9c0, #efddf0, #c2c2e2, #cfc9c0,#d4c2cf, #bad8d8, #dbc4d2,
+	#ade7e9, #e4dfdc,#efddf0, #c2c2e2, #cfc9c0);
+	background-size: 800%;
+	animation: slide 30s linear reverse both running infinite;
+	z-index: -1;
+}
+
+@keyframes slide {
+	0% {
+		background-position: 0 0;
+	}
+	50% {
+		background-position: 100% 0;
+	}
+	100% {
+		background-position: 0 0;
+	}
+}
+

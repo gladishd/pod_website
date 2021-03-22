@@ -1,0 +1,34 @@
+.r, .c{
+  height: 100%;
+}
+
+.c{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.pic{
+  height: 100%;
+  width: 100%;
+}
+
+.title{
+  font-size: xx-large;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.projDes {
+  margin: 1rem;
+}
+
+.des{
+  font-size: x-large;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.tech_stk {
+  margin: 3px;
+}

@@ -1,0 +1,110 @@
+[
+  {
+    "title": "Pseudogen",
+    "description": "A ReactJS webapp to convert source code into pseudocode using SMT (Statistical Machine Translation).",
+    "tech": [
+      "Python",
+      "JavaScript",
+      "C++",
+      "CSS",
+      "HTML",
+      "Modelica"
+    ],
+    "links": {
+      "github": "https://github.com/Open-Sourced-Olaf/pseudogen",
+      "demo": ""
+    },
+    "image": "\\_project\\68747470733a2f2f692e6962622e636f2f643663317a66542f636f64652e706e67.png"
+  },
+  {
+    "title": "Get SVG Icons",
+    "description": "View icons from bootstrap's icon library and insert them into your code through snippets.",
+    "tech": [
+      "TypeScript",
+      "Python"
+    ],
+    "links": {
+      "github": "https://github.com/Open-Sourced-Olaf/Get-svg-icons",
+      "demo": "https://marketplace.visualstudio.com/items?itemName=marcochan.get-svg-icons"
+    },
+    "image": "\\_project\\getsvgicons.png"
+  },
+  {
+    "title": "VS Code GitHub Projects",
+    "description": "A VS Code extension that brings GitHub's projects into VS Code.",
+    "tech": [
+      "Svelte",
+      "TypeScript",
+      "JavaScript",
+      "CSS"
+    ],
+    "links": {
+      "github": "https://github.com/Open-Sourced-Olaf/vscode-github-projects",
+      "demo": "https://marketplace.visualstudio.com/items?itemName=Pod212.vscode-github-projects"
+    },
+    "image": "\\_project\\checklist.svg"
+  },
+  {
+    "title": "Olaf's Adventure",
+    "description": "Come along on this wonderful journey of Olaf towards finding his destiny.",
+    "tech": [
+      "ShaderLab",
+      "HLSL",
+      "C#",
+      "HTML",
+      "CSS"
+    ],
+    "links": {
+      "github": "https://github.com/Open-Sourced-Olaf/Olafs-Adventure",
+      "demo": "https://open-sourced-olaf.github.io/Olafs-Adventure/"
+    },
+    "image": "\\_project\\111823117-8f9e3b00-88b2-11eb-8a6d-ff44da0c54a7.gif"
+  },
+  {
+    "title": "PoseRunner",
+    "description": "\"Run\" through MLH Fellowship in outer space, with your poses!",
+    "tech": [
+      "JavaScript",
+      "CSS",
+      "HTML"
+    ],
+    "links": {
+      "github": "https://github.com/Open-Sourced-Olaf/PoseRunner",
+      "demo": "https://pose-runner.vercel.app/"
+    },
+    "image": "\\_project\\111834988-61544600-891a-11eb-8fe2-aabe42c2a4b3.png"
+  },
+  {
+    "title": "Olaf's Swim",
+    "description": "Hey welcome to OceanTrashPick! Check out our fun under the sea adventure!",
+    "tech": [
+      "C#",
+      "ShaderLab",
+      "HLSL",
+      "CSS",
+      "JavaScript",
+      "HTML"
+    ],
+    "links": {
+      "github": "https://github.com/Open-Sourced-Olaf/Olafs-Swim",
+      "demo": "https://play.unity.com/mg/other/webgl-builds-27387"
+    },
+    "image": "\\_project\\swimmerandsquid.png"
+  },
+  {
+    "title": "2020 Enemy",
+    "description": "This game is to give you, the player, the basic knowledge already collected about The 2020-Enemy(Covid19).  They say that to understand the enemy, you have to be one.",
+    "tech": [
+      "ShaderLab",
+      "C#",
+      "Mathematica",
+      "HLSL",
+      "Rich Text Format"
+    ],
+    "links": {
+      "github": "https://github.com/Open-Sourced-Olaf/2020-Enemy",
+      "demo": "https://yvon.itch.io/the-2020-enemy"
+    },
+    "image": "\\_project\\the-2020-enemy.png"
+  }
+]

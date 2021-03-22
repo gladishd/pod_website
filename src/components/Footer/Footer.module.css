@@ -1,0 +1,17 @@
+.foot{
+  background-color: grey;
+  display: flex;
+  width: 100vw;
+  justify-content: center;
+  align-items: center;
+  height: 4rem;
+}
+
+.power{
+  font-size: large;
+  margin-right: 0.7rem;
+}
+
+.icon {
+  width: 5rem;
+}

@@ -1,0 +1,161 @@
+[
+  {
+    "name":"Rashika Karki",
+    "country": "Nepal",
+    "school": "Kathmandu University",
+    "links":{
+      "github": "github_link",
+      "linkedin": "facebook_link"
+    },
+    "image":"\\_podImg\\rashika.jpg"
+  },
+  {
+    "name":"Aitik Gupta",
+    "country": "India",
+    "school": "IIIT Gwalior",
+    "links":{
+      "github": "github_link",
+      "linkedin": "facebook_link"
+    },
+    "image":"\\_podImg\\aitik.png"
+  },
+  {
+    "name":"Anjali Soni",
+    "country": "India",
+    "school": "IIT Guwahati",
+    "links":{
+      "github": "github_link",
+      "linkedin": "facebook_link"
+    },
+    "image":"\\_podImg\\anjali.jpg"
+  },{
+    "name":"Bodisha Thomas",
+    "country": "India",
+    "school": "APJ Abdul Kalam University",
+    "links":{
+      "github": "github_link",
+      "linkedin": "facebook_link"
+    },
+    "image":"\\_podImg\\bodisha.jpeg"
+  },
+  {
+    "name":"Bushra Akram",
+    "country": "Pakistan",
+    "school": "Bahria University",
+    "links":{
+      "github": "github_link",
+      "linkedin": "facebook_link"
+    },
+    "image":"\\_podImg\\bushra.jpeg"
+  },
+  {
+    "name":"Dean Gladish",
+    "country": "United States",
+    "school": "Carleton College",
+    "links":{
+      "github": "github_link",
+      "linkedin": "facebook_link"
+    },
+    "image":"\\_podImg\\dean.jpg"
+  },
+  {
+    "name":"Deepak Agrawak",
+    "country": "India",
+    "school": "Savitribai Phule Pune University",
+    "links":{
+      "github": "github_link",
+      "linkedin": "facebook_link"
+    },
+    "image":"\\_podImg\\deepak.jpg"
+  },
+  {
+    "name":"Marco Chan",
+    "country": "Canada",
+    "school": "University of Pennsylvania",
+    "links":{
+      "github": "github_link",
+      "linkedin": "facebook_link"
+    },
+    "image":"\\_podImg\\marco.jpg"
+  },
+  {
+    "name":"Prashi Doval",
+    "country": "India",
+    "school": "IGDTUW",
+    "links":{
+      "github": "github_link",
+      "linkedin": "facebook_link"
+    },
+    "image":"\\_podImg\\dummy.png"
+  },
+  {
+    "name":"Rashi Sharma",
+    "country": "India",
+    "school": "NIT Kurukshetra",
+    "links":{
+      "github": "github_link",
+      "linkedin": "facebook_link"
+    },
+    "image":"\\_podImg\\rashi.jpg"
+  },
+  {
+    "name":"Samuel Yuan",
+    "country": "United States",
+    "school": "High School",
+    "links":{
+      "github": "github_link",
+      "linkedin": "facebook_link"
+    },
+    "image":"\\_podImg\\samuel.jpeg"
+  },
+  {
+    "name":"Sena Yevenyo",
+    "country": "United States",
+    "school": "Lafayette College",
+    "links":{
+      "github": "github_link",
+      "linkedin": "facebook_link"
+    },
+    "image":"\\_podImg\\dummy.png"
+  },
+  {
+    "name":"Shrill Shrestha",
+    "country": "Nepal",
+    "school": "University of Louisiana Monroe",
+    "links":{
+      "github": "github_link",
+      "linkedin": "facebook_link"
+    },
+    "image":"\\_podImg\\shrill.jpg"
+  },
+  {
+    "name":"Steven Tey",
+    "country": "United States",
+    "school": "Minerva School of KGI",
+    "links":{
+      "github": "github_link",
+      "linkedin": "facebook_link"
+    },
+    "image":"\\_podImg\\dummy.png"
+  },
+  {
+    "name":"Sumi Kolli",
+    "country": "United States",
+    "school": "USC",
+    "links":{
+      "github": "github_link",
+      "linkedin": "facebook_link"
+    },
+    "image":"\\_podImg\\dummy.png"
+  },
+  {
+    "name":"Yvon Manzi",
+    "country": "United States",
+    "school": "Colombia University",
+    "links":{
+      "github": "github_link",
+      "linkedin": "facebook_link"
+    },
+    "image":"\\_podImg\\dummy.png"
+  }
+]
